@@ -7,7 +7,7 @@ import (
 	"github.com/HailoOSS/platform/client"
 	"github.com/HailoOSS/platform/server"
 	"github.com/HailoOSS/service/healthcheck"
-	"github.com/HailoOSS/platform-cli/rabbit"
+	"github.com/HailoOSS/binding-service/rabbit"
 	"github.com/HailoOSS/protobuf/proto"
 	"sort"
 	"strings"
